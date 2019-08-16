@@ -1,8 +1,8 @@
 {
 	"miniprogramRoot": "dist/",
-	"projectname": "wechat-taro",
+	"projectname": "myApp",
 	"description": "wechat-taro",
-	"appid": "touristappid",
+	"appid": "wxe0b7b373e4093ac4",
 	"setting": {
 		"urlCheck": true,
 		"es6": false,
